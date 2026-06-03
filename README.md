@@ -30,7 +30,8 @@ I am a Data Science and Analytics student at the University of Santo Tomas with 
 Python, SQL, C++, JavaScript
 
 **Data Science and Machine Learning:**  
-Linear Probability Model, Logistic Regression, Generalized Linear Models, KNN, Decision Trees, Random Forest, Boosting Methods, Regularization, K-Means, DBSCAN, PCA, t-SNE, UMAP, Market Basket Analysis, Text Clustering, Topic Modeling, Imbalance Identification
+Supervised Learning, Unsupervised Learning, Statistical Modeling, Natural Language Processing, Data Visualization, Model Evaluation
+
 
 **Tools and Platforms:**  
 Jupyter Notebook, Google Colab, Git, GitHub, VS Code, Microsoft Excel, Tableau
